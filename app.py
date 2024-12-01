@@ -14,7 +14,8 @@ from spinner_animation import render_animation
 load_dotenv()
 
 # Get API key
-api_key = os.getenv("GOOGLE_API_KEY")
+# api_key = os.getenv("GOOGLE_API_KEY")
+api_key="your api key"
 if not api_key:
     st.error("API key not found! Please set the GOOGLE_API_KEY environment variable.")
     st.stop()
