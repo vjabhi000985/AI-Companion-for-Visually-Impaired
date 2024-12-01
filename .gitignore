@@ -2,4 +2,4 @@ venv/
 .env
 test-cases/
 utils/
-
+__pycache__/
