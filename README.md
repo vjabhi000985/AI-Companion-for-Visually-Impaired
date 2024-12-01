@@ -30,3 +30,10 @@ This project was developed as the final task of the Data Science and Gen AI Inte
 - **Tesseract OCR**: For extracting text from images.
 - **pyttsx3**: For converting extracted text to speech.
 - **Lottie**: For displaying animations and creating dynamic spinner/loading effects in the web app.
+
+## Screenshots
+#### 1. User Interface
+![Screenshot (381)](https://github.com/user-attachments/assets/8b904aac-2e17-4d07-88c6-96efde07994b)
+
+#### 2. Output Screen
+![Screenshot (383)](https://github.com/user-attachments/assets/faf6a9b6-aaef-487e-a002-7c5044175c23)
